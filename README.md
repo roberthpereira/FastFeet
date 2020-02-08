@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="FastFeet" title="FastFeet" src="./.github/logo.png" width="300px" />
+    <img alt="FastFeet" title="FastFeet" src="https://raw.githubusercontent.com/Rocketseat/bootcamp-gostack-desafio-02/master/.github/logo.png" width="300px" />
 </h1>
 
 <blockquote align="center" alt="Não espere para plantar, apenas tenha paciência para colher!" >“Don't wait to plant, just be patient to reap”!</blockquote>
